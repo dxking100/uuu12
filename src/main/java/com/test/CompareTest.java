@@ -33,7 +33,7 @@ public class CompareTest {
         CompareTest c = new CompareTest();
         Test t =  c.new Test(); //內部類　，需要父實例創建
         Test1 t1 =  new Test1(); //內部靜態類　，可以直接實例化
-        //test
+        //haha this is my test
 
 
 //        Field f =Unsafe.class.getDeclaredField("theUnsafe");
